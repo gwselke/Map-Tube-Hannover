@@ -1,0 +1,533 @@
+;Hannover S-Bahn and U-Bahn/Tram:han
+# S-Bahn
+:S1:#7A6CAC
+Minden
+Bückeburg
+Kirchhorsten
+Stadthagen
+Lindhorst
+Haste
+Wunstorf
+Dedensen/Gümmer
+Seelze
+Letter
+Leinhausen
+Nordstadt
+Hannover Hbf
+Bismarckstr.
+Linden/Fischerhof
+Bornum
+Empelde
+Ronnenberg
+Weetzen
+Lemmie
+Wennigsen (Deister)
+Egestorf (Deister)
+Kirchdorf (Deister)
+Barsinghausen
+Winninghausen
+Bantorf
+Bad Nenndorf=Haste
+:S2:#00834A
+Nienburg
+Linsburg
+Hagen (Han)
+Eilvese
+Neustadt am Rübenberge
+Poggenhagen
+Wunstorf
+Dedensen/Gümmer
+Seelze
+Letter
+Leinhausen
+Nordstadt
+Hannover Hbf
+Bismarckstr.
+Linden/Fischerhof
+Bornum
+Empelde
+Ronnenberg
+Weetzen
+Lemmie
+Wennigsen (Deister)
+Egestorf (Deister)
+Kirchdorf (Deister)
+Barsinghausen
+Winninghausen
+Bantorf
+Bad Nenndorf
+Haste
+:S3:#C66AAB
+Hannover Hbf
+Kleefeld:kleefeld;Uhlhornstr.
+Karl-Wiechert-Allee
+Anderten/Misburg
+Ahlten
+Lehrte
+Sehnde
+Algermissen
+Harsum
+Hildesheim Hbf
+:S4:#973050
+Bennemühlen
+Mellendorf
+Bissendorf
+Langenhagen-Kaltenweide
+Langenhagen-Pferdemarkt
+Langenhagen-Mitte
+Vinnhorst
+Ledeburg
+Nordstadt
+Hannover Hbf
+Bismarckstr.
+Messe/Laatzen
+Rethen (Leine)
+Sarstedt
+Barnten
+Emmerke
+Hildesheim Hbf
+:S5:#F68B1F
+Flughafen
+Langenhagen-Pferdemarkt
+Langenhagen-Mitte
+Vinnhorst
+Ledeburg
+Nordstadt
+Hannover Hbf
+Bismarckstr.
+Linden/Fischerhof
+Bornum
+Empelde
+Ronnenberg
+Weetzen
+Holtensen/Linderte
+Bennigsen
+Völksen/Eldagsen
+Springe
+Bad Münder
+Hameln
+Emmerthal
+Bad Pyrmont
+Lügde
+Schieder
+Steinheim (Westf)
+Altenbeken
+Paderborn Hbf
+:S6:#015BAA
+Hannover Hbf
+Karl-Wiechert-Allee
+Aligse
+Burgdorf
+Otze
+Ehlershausen
+Celle
+:S7:#A5CE43
+Hannover Hbf
+Kleefeld
+Karl-Wiechert-Allee
+Anderten/Misburg
+Ahlten
+Lehrte
+Aligse
+Burgdorf
+Otze
+Ehlershausen
+Celle
+:S21:#00834A
+Hannover Hbf
+Bismarckstr.
+Linden/Fischerhof
+Bornum
+Empelde
+Ronnenberg
+Weetzen
+Lemmie
+Wennigsen (Deister)
+Egestorf (Deister)
+Kirchdorf (Deister)
+Barsinghausen
+:S51:#F68B1F
+Seelze
+Letter
+Leinhausen
+Nordstadt
+Hannover Hbf
+Bismarckstr.
+Linden/Fischerhof
+Bornum
+Empelde
+Ronnenberg
+Weetzen
+Holtensen/Linderte
+Bennigsen
+Völksen/Eldagsen
+Springe
+Bad Münder
+Hameln
+# U-Bahn/Tram
+:1:#EF3E23
+Langenhagen
+Langenhagen/Kurt-Schumacher-Allee
+Langenhagen/Zentrum
+Langenhagen/Langenforther Platz
+Langenhagen/Angerstr.
+Berliner Platz
+Wiesenau
+Alter Flughafen
+Kabelkamp
+Windausstr.
+Büttnerstr.
+Niedersachsenring
+Dragonerstr.
+Vahrenwalder Platz
+Werderstr.
+Hannover Hbf
+Kröpcke
+Aegidientorplatz
+Schlägerstr.
+Geibelstr.
+Altenbekener Damm
+Döhrener Turm
+Fiedelerstr.
+Peiner Str.
+Bothmerstr.
+Wiehbergstr.
+Am Brabrinke
+Laatzen/Birkenstr.:laatzen_messe;Messe/Laatzen
+Laatzen/Eichstr.
+Laatzen/Park der Sinne
+Laatzen/Zentrum
+Laatzen
+Laatzen/Rethener Winkel
+Rethen/Pattenser Str.
+Rethen/Bahnhof
+Rethen/Galgenbergweg
+Gleidingen
+Gleidingen/Thorstr.
+Gleidingen/Am Leinkamp
+Heisede/Marienburger Str.
+Heisede/Langer Kamp
+Sarstedt/Am Boksberg
+Sarstedt/Röntgenstr.
+Sarstedt
+:2:#EF3E23
+Alte Heide
+Bahnstrift
+Tempelhofweg
+Zehlendorfweg
+Papenwinkel
+Vahrenheider Markt
+Reiterstadion
+Großer Kolonnenweg
+Büttnerstr.
+Niedersachsenring
+Dragonerstr.
+Vahrenwalder Platz
+Werderstr.
+Hannover Hbf
+Kröpcke
+Aegidientorplatz
+Schlägerstr.
+Geibelstr.
+Altenbekener Damm
+Döhrener Turm
+Fiedelerstr.
+Peiner Str.=Döhren/Bhf.
+Bothmerstr.
+Wiehbergstr.
+Am Brabrinke
+Laatzen/Birkenstr.
+Laatzen/Eichstr.
+Laatzen/aquaLaatzium
+Laatzen/Krankenhaus
+Laatzen/Neuer Schlag
+Laatzen/Ginsterweg
+Rethen/Steinfeld
+Rethen/Pattenser Str.
+Rethen/Bahnhof
+Rethen/Galgenbergweg
+Gleidingen
+!Döhren/Bhf.
+:3:#0071BB
+Wettbergen
+Tresckowstr.
+Mühlenberger Markt
+Am Sauerwinkel
+Bartold-Knaust-Str.
+Wallensteinstr.
+Beekestr.
+Schünemannplatz
+Linden/Fischerhof
+Stadionbrücke
+Allerweg
+Waterloo
+Markthalle/Landtag
+Kröpcke
+Hannover Hbf
+Sedanstr./Lister Meile
+Lister Platz
+Lortzingstr.
+Vier Grenzen
+Pelikanstr.
+Spannhagengarten
+Klingerstr.
+Noltemeyerbrücke
+In den sieben Stücken
+Paracelsusweg
+Stadtfriedhof Lahe
+Oldenburger Allee
+Altwarmbüchen/Opelstr.
+Altwarmbüchen/Ernst-Grote-Str.
+Altwarmbüchen/Zentrum
+Altwarmbüchen
+:4:#FBA51D
+Garbsen
+Auf der Horst/Marshof
+Auf der Horst/Skorpiongasse
+Schönebecker Allee
+Pascalstr.
+Wissenschaftspark Marienwerder
+Jädekamp
+Auf der Klappenburg
+Lauckerhof
+Freudenthalstr.
+Stadtfriedhof Stöcken
+Leinhausen=Fuhsestr.
+Herrenhäuser Markt
+Schaumburgstr.
+Herrenhäuser Gärten
+Appelstr.
+Schneiderberg/W.-Busch-Museum
+Leibniz Universität
+Königsworther Platz
+Steintor
+Kröpcke
+Aegidientorplatz
+Marienstr.
+Braunschweiger Platz
+Clausewitzstr.
+Kantplatz
+Uhlhornstr.
+Nackenberg
+Karl-Wiechert-Allee
+Misburger Str.
+Medizinische Hochschule
+Roderbruchmarkt
+Roderbruch
+!Fuhsestr.
+Fuhsestr./Bhf.
+:5:#FBA51D
+Stöcken
+Stöckener Markt
+Freudenthalstr.
+Stadtfriedhof Stöcken
+Leinhausen=Fuhsestr.
+Herrenhäuser Markt
+Schaumburgstr.
+Herrenhäuser Gärten
+Appelstr.
+Schneiderberg/W.-Busch-Museum
+Leibniz Universität
+Königsworther Platz
+Steintor
+Kröpcke
+Aegidientorplatz
+Marienstr.
+Braunschweiger Platz
+Clausewitzstr.
+Kantplatz
+Uhlhornstr.
+Nackenberg
+Annastift
+Bleekstr.
+Saarbrückener Str.
+Großer Hillen
+Tiergarten
+Ostfeldstr.
+Königsbergwer Str.
+Anderten
+!Fuhsestr.
+Fuhsestr./Bhf.
+:6:#FBA51D
+Nordhafen
+Mecklenheidestr.
+Beneckeallee
+Friedenauer Str.
+Krepenstr.
+Hainhölzer Markt
+Fenskestr.
+An der Strangriede
+Kopernikusstr.
+Christuskirche
+Steintor
+Kröpcke
+Aegidientorplatz
+Marienstr.
+Braunschweiger Platz
+Freundallee
+Kerstingstr.
+Kinderkrankenhaus auf der Bult
+Zuschlagstr.
+Bünteweg/TiHo
+August-Madsack-Str.
+Seelhorster Allee
+Emslandstr.
+Brabeckstr.
+Feldbuschwende
+Kronsberg
+Krügerskamp
+Stockholmer Allee
+Messe/Ost (Expo-Plaza)
+:7:#0071BB
+Wettbergen
+Tresckowstr.
+Mühlenberger Markt
+Am Sauerwinkel
+Bartold-Knaust-Str.
+Wallensteinstr.
+Beekestr.
+Schünemannplatz
+Linden/Fischerhof
+Stadionbrücke
+Allerweg
+Waterloo
+Markthalle/Landtag
+Kröpcke
+Hannover Hbf
+Sedanstr./Lister Meile
+Lister Platz
+Lortzingstr.
+Vier Grenzen
+Pelikanstr.
+Spannhagengarten
+Klingerstr.
+Noltemeyerbrücke
+In den sieben Stücken
+Paracelsusweg
+Pappelwiese
+Schierholzstr.
+Kafkastr.
+Am Forstkamp
+Misburg
+:8:#EF3E23
+Dragonerstr.
+Vahrenwalder Platz
+Werderstr.
+Hannover Hbf
+Kröpcke
+Aegidientorplatz
+Schlägerstr.
+Geibelstr.
+Altenbekener Damm
+Döhrener Turm
+Fiedelerstr.
+Peiner Str.
+Bothmerstr.
+Stadtfriedhof Seelhorst
+Am Mittelfelde
+Messe/Nord
+:9:#0071BB
+Empelde
+Hermann-Ehlers-Allee
+Safariweg
+Riecherstr.
+Am Soltekampe
+Körtingsdorfer Weg
+Bauweg
+Am Lindener Hafen
+Bernhard-Caspar-Str.
+Nieschlagstr.
+Lindener Marktplatz
+Schwarzer Bär
+Waterloo
+Markthalle/Landtag
+Kröpcke
+Hannover Hbf
+:10:#71BF44
+Ahlem
+Gedenkstätte Ahlem
+Brunnenstr.
+Harenberger Str.
+Wunstorfer Str.
+Freizeitheim Linden
+Leinaustr.
+Am Küchengarten
+Glocksee/Bhf.
+Glocksee
+Goetheplatz
+Steintor
+Hannover Hbf/Rosenstr.:han_hbf;Hannover Hbf
+Hannover Hbf/ZOB:han_hbf;Hannover Hbf
+:11:#FBA51D
+Haltenhoffstr.
+An der Strangriede
+Kopernikusstr.
+Christuskirche
+Steintor
+Kröpcke
+Aegidientorplatz
+Marienstr.
+Braunschweiger Platz
+Clausewitzstr.
+Hannover Congress Centrum
+Zoo
+:12:#71BF44
+Ahlem
+Gedenkstätte Ahlem
+Brunnenstr.
+Harenberger Str.
+Wunstorfer Str.
+Freizeitheim Linden
+Leinaustr.
+Am Küchengarten
+Glocksee/Bhf.
+Glocksee
+Humboldtstr.
+Waterloo
+Markthalle/Landtag
+Kröpcke
+Hannover Hbf
+:13:#0071BB
+Hemmingen
+Hemmingen/Berliner Str.
+Hemmingen/Zentrum
+Hemmingen/Saarstr.
+Stadtfriedhof Ricklingen
+Unter den Birken
+Wallensteinstr.
+Beekestr.
+Schünemannplatz
+Linden/Fischerhof
+Stadionbrücke
+Allerweg
+Waterloo
+Markthalle/Landtag
+Kröpcke
+Hannover Hbf
+Sedanstr./Lister Meile
+Lister Platz
+Lortzingstr.
+Vier Grenzen
+Pelikanstr.
+Spannhagengarten
+Klingerstr.
+Noltemeyerbrücke=Buchholz/Bhf.
+Bothfelder Kirchweg
+Bothfeld
+Kurze-Kamp-Str.
+Stadtfriedhof Bothfeld
+Fasanenkrug
+!Buchholz/Bhf.
+:17:#71BF44
+Wallensteinstr.
+Beekestr.
+Schünemannplatz
+Linden/Fischerhof
+Stadionbrücke
+Allerweg
+Schwarzer Bär
+Humboldtstr.
+Goetheplatz
+Steintor
+Hannover Hbf/Rosenstr.
+Hannover Hbf/ZOB
